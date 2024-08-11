@@ -7,5 +7,6 @@ Python 3.8+
 Python packages
 pandas
 numpy
+matplotlib
 
 teams.csv - the team-level data that we use in this project.
